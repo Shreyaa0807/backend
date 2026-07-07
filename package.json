@@ -1,19 +1,20 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "practice session",
-  "keywords": [
-    "node",
-    "chai"
-  ],
+  "description": "backend learning",
+  "homepage": "https://github.com/Shreyaa0807/backend#readme",
+  "bugs": {
+    "url": "https://github.com/Shreyaa0807/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyaa0807/backend.git"
+  },
   "license": "ISC",
-  "author": "shreya singh",
+  "author": "shreya",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "dotenv": "^17.2.3",
-    "express": "^5.1.0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
